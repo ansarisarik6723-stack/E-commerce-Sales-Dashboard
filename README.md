@@ -1,12 +1,12 @@
 # E-commerce-Sales Performance Dashboard
    Power BI dashboard providing insights into e-commerce sales performance, customer behavior, payment modes, and profitability.
 
-## 🎯 Objective
+# Objective
 The objective of this project is to analyze **e-commerce sales performance** and provide insights into customer behavior, product categories, payment modes, and profitability.  
 The dashboard helps business stakeholders track revenue, profit, and sales trends across states, customers, and categories to improve decision-making.
 
 
-## ❓ Key Questions (KPIs)
+# Key Questions (KPIs)
 This dashboard answers the following business questions:
 - What is the **total sales amount, quantity sold, and overall profit**?
 - Which **customers** contribute the most to revenue?
@@ -16,15 +16,15 @@ This dashboard answers the following business questions:
 - What are the **top-performing product categories**?
 
 
-## ⚙️ Process
+# Process
 1. **Data Preparation**: Sales dataset collected and cleaned in Excel.  
 2. **Data Modeling**: Built relationships and created calculated measures using **DAX**.  
 3. **Visualization**: Designed interactive visuals (bar charts, donut charts, line charts) in **Power BI**.  
 4. **Dashboard Development**: Combined KPIs and visuals into a single interactive dashboard.  
 
 
-##  Dashboard Link
-
+# Dashboard Link
+https://github.com/ansarisarik6723-stack/E-commerce-Sales-Dashboard/blob/main/Screenshot%202026-09-14%20143519.png
 
 
 # Project Insights
